@@ -18,7 +18,7 @@ public class HelloJavaFxAndMavenApp extends Application {
 
     public void start(Stage stage) throws Exception {
 
-        log.info("Starting Hello JavaFX and Maven demonstration application");
+        log.info("Starting Hello JavaFX and Maven demonstration application 2");
 
         String fxmlFile = "/fxml/hello.fxml";
         log.debug("Loading FXML for main view from: {}", fxmlFile);
